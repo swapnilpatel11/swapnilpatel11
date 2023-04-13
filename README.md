@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, Swapnil Here</h1>
 <h3 align="center">Automation Test Developer</h3>
 
