@@ -3,9 +3,9 @@
 <h3 align="left">About Me:</h3>
 <p>I have a background in Computer Science Engineering with two post-graduation in Software Quality Assurance & Test Engineering and Project Management in IT.<br>Currently, I am working as Automation Test Developer for Financial Client in Toronto, Canada.<br>I have expertise in Manual and Automation Testing with various tools like Selenium, Cypress, TOSCA, SoapUI<br></p>
 
-- 🔭 I’m currently working on **Financial Project to Automate Test Cases**
+- 🔭 I’m currently working on **Insurance Admin Project to Automate Test Cases**
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Cypress and Azure DevOps**
 
 - 💬 Ask me about **Manual or Automation Testing**
 
