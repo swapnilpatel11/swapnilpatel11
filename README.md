@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Swapnil Here</h1>
-<h3 align="center">Automation Test Developer</h3>
+<h3 align="center">QA Automation Tester</h3>
 <h3 align="left">About Me:</h3>
 <p>I have a background in Computer Science Engineering with two post-graduation in Software Quality Assurance & Test Engineering and Project Management in IT.<br>Currently, I am working as QA Automation Tester for Insurance Client in North York, Canada.<br>I have expertise in Manual and Automation Testing with various tools like Selenium, Cypress, TOSCA, SoapUI<br></p>
 
