@@ -5,13 +5,12 @@
 <h3 align="center">I'm Swapnil Patel! </h3>
 
 
-- I have a background in Computer Science Engineering with two post-graduation in Software Quality Assurance & Test Engineering and Project Management in IT.Currently, I am working as a QA Automation Tester for an Insurance Client in North York, Canada.<br>I have expertise in Manual and Automation Testing with various tools like Selenium, Cypress, TOSCA, SoapUI, and Appium Mobile Automation Testing.
+- I have a background in Computer Science Engineering with two post-graduation in Software Quality Assurance & Test Engineering and Project Management in IT. Currently, I am working as a QA Automation Tester for an Insurance Client in North York, Canada. I have expertise in Manual and Automation Testing with various tools like Selenium, Cypress, TOSCA, SoapUI, and Appium Mobile Automation Testing.
 
 ---
 
 - 💻 I’m currently working on **Insurance Admin Project to Automate Test Cases**;
-- 💪 I already worked on: `Cypress.io` | `Selenium` | `Appium` | `TOSCA` | `Java` | `JavaScript`;
-- 🌱 I’m currently learning on more tools and techs
+- 💪 I already worked on: `Cypress.io` | `Selenium` | `Appium` | `TOSCA` | `Java` | `JavaScript`
 - 💬 Connect with me about **Manual or Automation Testing**
 
 ---- 
@@ -41,7 +40,7 @@
     <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 
-  <a href="maito:contacto:swapnilpatel6893@gmail.com" target="_blank ">
+  <a href="mailto:contacto:swapnilpatel6893@gmail.com" target="_blank ">
     <img height="28"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
