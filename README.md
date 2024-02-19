@@ -41,7 +41,7 @@
     <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 
-  <a href="maito:contato:swapnilpatel6893@gmail.com" target="_blank ">
+  <a href="maito:contacto:swapnilpatel6893@gmail.com" target="_blank ">
     <img height="28"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
