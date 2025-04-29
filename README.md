@@ -5,7 +5,7 @@
 <h3 align="center">I'm Swapnil Patel! </h3>
 
 
-- I have a background in Computer Science Engineering with two post-graduation in Software Quality Assurance & Test Engineering and Project Management in IT. Currently, I am working as a QA Automation Tester for an Insurance Client in North York, Canada. I have expertise in Manual and Automation Testing with various tools like Selenium, Cypress, TOSCA, SoapUI, and Appium Mobile Automation Testing.
+- I have a background in Computer Science Engineering plus post-graduation in Software Quality Assurance & Test Engineering and Project Management in IT. I have experience over 6 years in software testing different applications UI and APIs including mobile apps.Currently, I am working as a Software Development Engineer in Test for an Insurance Client in Toronto, Canada. I have expertise in Manual and Automation Testing with various tools like Selenium, Cypress, TOSCA, SoapUI, and Appium Mobile Automation Testing.
 
 ---
 
