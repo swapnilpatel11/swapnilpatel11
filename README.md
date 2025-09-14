@@ -9,7 +9,7 @@
 
 ---
 
-- 💻 I’m currently working on **Insurance Admin Project to Automate Test Cases**;
+- 💻 I’m currently working on **MarTech Team of Sun Life as QA Lead**;
 - 💪 I already worked on: `Cypress.io` | `Selenium` | `Appium` | `TOSCA` | `Java` | `JavaScript`
 - 💬 Connect with me about **Manual or Automation Testing**
 
@@ -52,11 +52,7 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cleidianaa&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
   </a>
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cleidianaa}/count.svg" /></p> 
-  <br>
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33FFCE&height=120&section=footer"/>
